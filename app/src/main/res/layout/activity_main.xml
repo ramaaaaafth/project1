@@ -39,7 +39,7 @@
                     android:layout_height="125dp"
                     android:paddingTop="0dp"
                     android:paddingBottom="16dp"
-                    android:src="@drawable/phone" />
+                    android:src="@drawable/phone"/>
 
                 <TextView
                     android:id="@+id/myImageViewText"
